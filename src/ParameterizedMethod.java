@@ -3,6 +3,9 @@ import java.util.ArrayList;
 public class ParameterizedMethod {
     public static void main(String[] args) {
         ArrayList<Integer> al1 = new ArrayList<>();
+//        ArrayList al1 = new ArrayList();
+        int i = al1.get(0);
+//        int i al1 = (Integer)al1.get(0);
         al1.add(10);
         al1.add(20);
         al1.add(5);
