@@ -31,5 +31,6 @@ public class Test {
         schoolarTeam2.addNewParticipant(schoolar4);
 
         schoolarTeam.playWith(schoolarTeam2);
+//        schoolarTeam.playWith(studentTeam);
     }
 }
